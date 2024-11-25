@@ -1,0 +1,12 @@
+{
+  "enable": true,
+  "toggleHotkey": "None",
+  "bagHotkey": "G",
+  "quickEatHotkey": "None",
+  "monitorHealth": true,
+  "monitorStamina": true,
+  "staminaThreshold": 25,
+  "healthThreshold": 25,
+  "foodPriority": "Prioritize_Lower_Recovery",
+  "FoodPriority": "Prioritize_Lower_Recovery"
+}
