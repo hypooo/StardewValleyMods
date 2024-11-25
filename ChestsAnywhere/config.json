@@ -1,7 +1,7 @@
 {
   "EnableSprinklerAttachments": false,
   "ShowHoverTooltips": true,
-  "EnableShippingBin": true,
+  "EnableShippingBin": false,
   "AddOrganizePlayerInventoryButton": true,
   "Range": "Unlimited",
   "DisabledInLocations": [],
@@ -9,8 +9,8 @@
   "DefaultCategory": null,
   "Controls": {
     "Toggle": "B",
-    "PrevChest": "Left, LeftShoulder",
-    "NextChest": "Right, RightShoulder",
+    "PrevChest": "RightAlt",
+    "NextChest": "Q",
     "PrevCategory": "Up, LeftTrigger",
     "NextCategory": "Down, RightTrigger",
     "EditChest": "None",

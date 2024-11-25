@@ -22,7 +22,7 @@
   "ShowWhenNewRecipesAreAvailable": true,
   "ShowToolUpgradeStatus": true,
   "HideMerchantWhenVisited": false,
-  "ShowExactValue": false,
+  "ShowExactValue": true,
   "ShowRobinBuildingStatusIcon": true,
   "ShowSeasonalBerry": true,
   "ShowSeasonalBerryHazelnut": false,

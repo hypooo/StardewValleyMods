@@ -1,0 +1,17 @@
+{
+  "enable": true,
+  "autoSwitch": true,
+  "stopAutoSwitchAfterCombat": 1.0,
+  "effectOnMarkNodes": true,
+  "effectOnWeeds": true,
+  "effectOnMatureCrops": true,
+  "effectOnForage": true,
+  "effectOnMossOnTree": true,
+  "effectOnBushForage": true,
+  "effectOnGreenRainBush": true,
+  "effectOnFruitTree": true,
+  "ignoreFlowers": true,
+  "toggleHotkey": "None",
+  "markNearestTileKey": "None",
+  "MarkNearestTileRange": 3
+}

@@ -1,0 +1,14 @@
+{
+  "enable": true,
+  "autoSwitch": false,
+  "detectCrops": true,
+  "detectPetBowl": true,
+  "autoWaterFilling": true,
+  "useCustomEfficiency": false,
+  "efficiency": 1,
+  "useCustomRange": false,
+  "range": 2,
+  "retainStamina": 10,
+  "staminaNotification": true,
+  "toggleHotkey": "None"
+}

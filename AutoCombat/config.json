@@ -11,7 +11,7 @@
   "followUpShots": 0,
   "followUpShotsMinimumRange": 3,
   "noConsumption": false,
-  "effectOnBarrels": false,
+  "effectOnBarrels": true,
   "daggerSpecial": false,
   "clubSpecial": false,
   "clubSpecialNumOfEnemy": 2,
