@@ -28,7 +28,7 @@
   "PreferredAdvIridiumTackle": "Any",
   "SpawnTackleIfDontHave": false,
   "SkipFishingMiniGame": "Off",
-  "InstantFishBite": true,
+  "InstantFishBite": false,
   "PreferFishAmount": 1,
   "PreferFishQuality": "Any",
   "AlwaysPerfect": false,

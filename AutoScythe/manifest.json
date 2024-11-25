@@ -1,0 +1,18 @@
+{
+    "Name": "*Auto-Scythe*",
+    "Author": "YunHikari",
+    "Version": "1.0.3",
+    "Description": "Let you use the Scythe to automatically harvest crops, gather forage, and even collect moss and tree fruits.",
+    "UniqueID": "YunHikari.AutoScythe",
+    "EntryDll": "AutoScythe.dll",
+    "MinimumApiVersion": "4.1.5",
+    "UpdateKeys": [
+        "Nexus:29391"
+    ],
+    "Dependencies": [
+        {
+            "UniqueID": "spacechase0.GenericModConfigMenu",
+            "IsRequired": false
+        }
+    ]
+}

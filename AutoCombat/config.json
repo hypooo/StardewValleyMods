@@ -1,0 +1,23 @@
+{
+  "enable": true,
+  "ignoreOnFarm": false,
+  "ignoreInSlimeHutch": true,
+  "autoSwitch": true,
+  "continuousAutoAttack": true,
+  "switchWeaponNotification": false,
+  "toggleHotkey": "None",
+  "SlingshotFireHotKey": "None",
+  "SlingshotAutoAim": true,
+  "followUpShots": 0,
+  "followUpShotsMinimumRange": 3,
+  "noConsumption": false,
+  "effectOnBarrels": false,
+  "daggerSpecial": false,
+  "clubSpecial": false,
+  "clubSpecialNumOfEnemy": 2,
+  "swordSpecial": false,
+  "swordSpecialSensitivity": 12.5,
+  "autoTargeting": true,
+  "displayPathFinding": true,
+  "autoTargetingRange": 5
+}
