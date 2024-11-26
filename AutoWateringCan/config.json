@@ -1,6 +1,6 @@
 {
   "enable": true,
-  "autoSwitch": false,
+  "autoSwitch": true,
   "detectCrops": true,
   "detectPetBowl": true,
   "autoWaterFilling": true,

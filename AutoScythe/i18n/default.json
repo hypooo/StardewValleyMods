@@ -18,6 +18,8 @@
     "GMCM.EffectOnWeeds.Desc": "Include weeds as harvest targets.",
     "GMCM.EffectOnMatureCrops": "Harvest Mature Crops",
     "GMCM.EffectOnMatureCrops.Desc": "Include mature crops as harvest targets.",
+    "GMCM.EffectOnDeadCrops": "Effect On Dead Crops",
+    "GMCM.EffectOnDeadCrops.Desc": "Includes dead crops as clearing targets.",
     "GMCM.EffectOnForage": "Harvest Forage Items",
     "GMCM.EffectOnForage.Desc": "Include wild forage items as harvest targets.",
     "GMCM.EffectOnMossOnTree": "Harvest Moss on Trees",

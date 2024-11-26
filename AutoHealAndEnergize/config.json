@@ -7,6 +7,6 @@
   "monitorStamina": true,
   "staminaThreshold": 10,
   "healthThreshold": 10,
-  "foodPriority": "Prioritize_Higher_Recovery",
-  "FoodPriority": "Prioritize_Higher_Recovery"
+  "foodPriority": "Prioritize_Lower_Recovery",
+  "FoodPriority": "Prioritize_Lower_Recovery"
 }

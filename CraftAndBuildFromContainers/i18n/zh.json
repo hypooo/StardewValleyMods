@@ -1,0 +1,17 @@
+{
+	// GMCM
+	"GMCM.ModEnabled.Name": "启用 Mod",
+	"GMCM.ToggleButton.Name": "切换按钮",
+	"GMCM.EnableForShopTrading.Name": "启用商店交易",
+	"GMCM.EnableForCrafting.Name": "启用制作",
+	"GMCM.EnableForBuilding.Name": "启用建造",
+	"GMCM.EnableEverywhere.Name": "全局启用",
+	"GMCM.IncludeFridge.Name": "包含冰箱",
+	"GMCM.IncludeMiniFridges.Name": "包含小型冰箱",
+	"GMCM.IncludeShippingBin.Name": "包含出货箱",
+	"GMCM.UnrestrictedShippingBin.Name": "无限制出货箱",
+	"GMCM.UnrestrictedShippingBin.Tooltip": "启用后，最后添加的物品以外的物品也可以被消费。",
+	"GMCM.IncludeMiniShippingBins.Name": "包含迷你出货箱",
+	"GMCM.IncludeJunimoChests.Name": "包含祝尼魔箱",
+	"GMCM.IncludeAutoGrabbers.Name": "包含自动采集器"
+}

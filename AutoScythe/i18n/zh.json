@@ -18,6 +18,8 @@
     "GMCM.EffectOnWeeds.Desc": "把杂草列入割除目标。",
     "GMCM.EffectOnMatureCrops": "收割成熟作物",
     "GMCM.EffectOnMatureCrops.Desc": "把成熟作物点列收割目标。",
+    "GMCM.EffectOnDeadCrops": "处理枯萎作物",
+    "GMCM.EffectOnDeadCrops.Desc": "把枯萎作物割除目标。",
     "GMCM.EffectOnForage": "收割采集品",
     "GMCM.EffectOnForage.Desc": "把野生采集品列入收割目标。",
     "GMCM.EffectOnMossOnTree": "收割树上苔癣",

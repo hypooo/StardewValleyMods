@@ -14,7 +14,7 @@
   "ShowAnimalsNeedPets": true,
   "HideAnimalPetOnMaxFriendship": true,
   "ShowItemEffectRanges": true,
-  "ButtonControlShow": false,
+  "ButtonControlShow": true,
   "ShowBombRange": false,
   "ShowItemsRequiredForBundles": true,
   "ShowHarvestPricesInShop": true,
