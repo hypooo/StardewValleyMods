@@ -1,0 +1,22 @@
+{
+  "enable": true,
+  "autoSwitch": true,
+  "useCustomRange": false,
+  "range": 2,
+  "usingMark": true,
+  "switchToolKeepMark": false,
+  "effectOnTwig": true,
+  "effectOnTree": false,
+  "effectOnTreeSeed": false,
+  "effectOnTreeOnlyMature": true,
+  "effectOnTreeIgnoreFarm": true,
+  "effectOnStump": true,
+  "effectOnLog": true,
+  "useCustomEfficiency": false,
+  "efficiency": 1,
+  "retainStamina": 10,
+  "staminaNotification": true,
+  "toggleHotkey": "None",
+  "markNearestTileKey": "None",
+  "MarkNearestTileRange": 3
+}

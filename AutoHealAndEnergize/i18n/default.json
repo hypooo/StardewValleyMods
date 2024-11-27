@@ -19,6 +19,10 @@
     "GMCM.MonitorHealth": "Monitor Health",
     "GMCM.HealthThreshold": "Health Threshold (%)",
     "GMCM.HealthThreshold.Desc": "Automatically use food when health percentage falls below this value.",
+    "GMCM.AutoReplenishBuff": "Auto Replenish Buff",
+    "GMCM.AutoReplenishBuff.Desc": "Automatically use food from the food bag when the farmer does not have the buff from that food.\nYou can only maintain one food buff and one drink buff at the same time.\nIn other words, if you already have a food buff, the next food buff will replace the current one.\nThis mod will wait until the buff is consumed before replenishing it.\nThe items at the front of the Food Bag will be prioritized for use.",
+    "GMCM.BuffFoodLastInRecovery": "Buff Food Used Last in Recovery",
+    "GMCM.BuffFoodLastInRecovery.Desc": "Buff food will be used last during recovery, only being consumed for recovery after non-Buff food is finished.",
     "GMCM.Priority": "Priority",
     "GMCM.Priority.Desc": "Priority for food consumption."
 }

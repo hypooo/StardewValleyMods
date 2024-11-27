@@ -1,3 +1,34 @@
 {
-  "Items": []
+  "Items": [
+    {
+      "itemID": "221",
+      "quality": 0,
+      "stack": 1,
+      "edibility": 100
+    },
+    {
+      "itemID": "206",
+      "quality": 0,
+      "stack": 1,
+      "edibility": 60
+    },
+    {
+      "itemID": "406",
+      "quality": 1,
+      "stack": 3,
+      "edibility": 10
+    },
+    {
+      "itemID": "404",
+      "quality": 1,
+      "stack": 5,
+      "edibility": 15
+    },
+    {
+      "itemID": "410",
+      "quality": 0,
+      "stack": 147,
+      "edibility": 10
+    }
+  ]
 }

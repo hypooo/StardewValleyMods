@@ -8,9 +8,9 @@
   "ReopenLastChest": true,
   "DefaultCategory": null,
   "Controls": {
-    "Toggle": "B",
+    "Toggle": "Q",
     "PrevChest": "RightAlt",
-    "NextChest": "Q",
+    "NextChest": "Tab",
     "PrevCategory": "Up, LeftTrigger",
     "NextCategory": "Down, RightTrigger",
     "EditChest": "None",

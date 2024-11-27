@@ -1,7 +1,7 @@
 {
     "Name": "*Auto-Heal&Energize*",
     "Author": "YunHikari",
-    "Version": "1.0.8",
+    "Version": "1.0.9",
     "Description": "Automatically consume food to recover when your health or stamina is low!",
     "UniqueID": "YunHikari.AutoHealAndEnergize",
     "EntryDll": "AutoHealAndEnergize.dll",

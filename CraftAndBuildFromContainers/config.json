@@ -1,0 +1,15 @@
+{
+  "ModEnabled": true,
+  "ToggleButton": "None",
+  "EnableForShopTrading": true,
+  "EnableForCrafting": true,
+  "EnableForBuilding": true,
+  "EnableEverywhere": true,
+  "IncludeFridge": true,
+  "IncludeMiniFridges": true,
+  "IncludeShippingBin": false,
+  "UnrestrictedShippingBin": false,
+  "IncludeMiniShippingBins": false,
+  "IncludeJunimoChests": true,
+  "IncludeAutoGrabbers": true
+}

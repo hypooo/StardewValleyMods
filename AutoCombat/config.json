@@ -19,5 +19,5 @@
   "swordSpecialSensitivity": 12.5,
   "autoTargeting": true,
   "displayPathFinding": true,
-  "autoTargetingRange": 5
+  "autoTargetingRange": 7
 }

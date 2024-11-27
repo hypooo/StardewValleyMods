@@ -14,6 +14,8 @@
     "GMCM.AutoSwitch.Desc": "靠近可作用物件时，自动切换镰刀，镰刀必须在工具列。",
     "GMCM.EffectOnMarkNodes": "处理标记节点",
     "GMCM.EffectOnMarkNodes.Desc": "选择镰刀时，右键可标记为准备收割目标。",
+    "GMCM.KeepMark": "切换工具保留标记",
+    "GMCM.KeepMark.Desc": "切换成其他工具时，仍然留下标记。",
     "GMCM.EffectOnWeeds": "处理杂草",
     "GMCM.EffectOnWeeds.Desc": "把杂草列入割除目标。",
     "GMCM.EffectOnMatureCrops": "收割成熟作物",

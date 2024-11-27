@@ -1,7 +1,7 @@
 {
     "Name": "*Auto-Combat*",
     "Author": "YunHikari",
-    "Version": "1.1.5",
+    "Version": "1.1.6",
     "Description": "This mod provides the greatest assistance for combat automation.",
     "UniqueID": "YunHikari.AutoCombat",
     "EntryDll": "AutoCombat.dll",

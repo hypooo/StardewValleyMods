@@ -19,6 +19,10 @@
     "GMCM.MonitorHealth": "监测生命",
     "GMCM.HealthThreshold": "生命门槛(%)",
     "GMCM.HealthThreshold.Desc": "当生命百分比小于这数值，自动使用食物。",
+    "GMCM.AutoReplenishBuff": "自动补充Buff",
+    "GMCM.AutoReplenishBuff.Desc": "当农夫不具备食物袋中食品的Buff时，自动使用该食物。\n你只能同时维持食物跟饮品各一个Buff。\n换句话说你已经有一个食物Buff时，下一个食物Buff会覆盖掉现在的食物Buff。\n这个Mod会等到该Buff消耗完才会补充，食物袋越前面的道具越优先使用。",
+    "GMCM.BuffFoodLastInRecovery": "恢复时Buff食品最后使用",
+    "GMCM.BuffFoodLastInRecovery.Desc": "Buff食品在恢复时优先级被摆在最后，只有非Buff食品消耗完才会被使用于恢复用途。",
     "GMCM.Priority": "优先级",
     "GMCM.Priority.Desc": "使用食物的优先级\nPrioritize_Lower_Recovery : 恢复量最小优先。\nPrioritize_Higher_Recovery : 恢复量最大优先。\nRandom : 随机。"
 }

@@ -3,6 +3,7 @@
   "autoSwitch": true,
   "stopAutoSwitchAfterCombat": 1.0,
   "effectOnMarkNodes": true,
+  "switchToolKeepMark": false,
   "effectOnWeeds": true,
   "effectOnMatureCrops": true,
   "effectOnDeadCrops": true,

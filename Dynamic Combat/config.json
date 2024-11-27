@@ -1,6 +1,0 @@
-{
-  "EnableFacingDirectionalAttack": true,
-  "MovementSpeed": 2.0,
-  "GamepadDeadzone": 0.1,
-  "WakeUpRecoveryTicks": 60
-}

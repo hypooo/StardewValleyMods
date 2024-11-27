@@ -5,8 +5,10 @@
   "quickEatHotkey": "None",
   "monitorHealth": true,
   "monitorStamina": true,
-  "staminaThreshold": 10,
-  "healthThreshold": 10,
+  "staminaThreshold": 20,
+  "healthThreshold": 20,
   "foodPriority": "Prioritize_Lower_Recovery",
+  "autoReplenishBuff": true,
+  "BuffFoodLastInRecovery": true,
   "FoodPriority": "Prioritize_Lower_Recovery"
 }

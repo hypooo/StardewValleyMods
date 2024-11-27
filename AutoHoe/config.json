@@ -1,0 +1,18 @@
+{
+  "enable": true,
+  "autoSwitch": true,
+  "useCustomRange": false,
+  "range": 2,
+  "markDirt": true,
+  "switchToolKeepMark": false,
+  "effectOnArtifactSpot": true,
+  "effectOnGinger": true,
+  "effectOnMineDirt": false,
+  "useCustomEfficiency": false,
+  "efficiency": 1,
+  "retainStamina": 10,
+  "staminaNotification": true,
+  "toggleHotkey": "None",
+  "markNearestTileKey": "None",
+  "MarkNearestTileRange": 2
+}

@@ -14,6 +14,8 @@
     "GMCM.AutoSwitch.Desc": "Automatically switch to the scythe when approaching interactable objects. The scythe must be in the toolbar.",
     "GMCM.EffectOnMarkNodes": "Effect On Marked Nodes",
     "GMCM.EffectOnMarkNodes.Desc": "Right-click while holding a scythe to mark a target for harvesting.",
+    "GMCM.KeepMark": "Keep Mark When Switching Tools",
+    "GMCM.KeepMark.Desc": "Marks will remain even when switching to other tools.",
     "GMCM.EffectOnWeeds": "Effect On Weeds",
     "GMCM.EffectOnWeeds.Desc": "Include weeds as harvest targets.",
     "GMCM.EffectOnMatureCrops": "Harvest Mature Crops",

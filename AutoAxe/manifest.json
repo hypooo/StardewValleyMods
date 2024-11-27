@@ -1,0 +1,18 @@
+{
+    "Name": "*Auto-Axe*",
+    "Author": "YunHikari",
+    "Version": "1.0.6",
+    "Description": "This mod helps with chopping trees using an axe, making operations simpler.",
+    "UniqueID": "YunHikari.AutoAxe",
+    "EntryDll": "AutoAxe.dll",
+    "MinimumApiVersion": "4.0.2",
+    "UpdateKeys": [
+        "Nexus:29058"
+    ],
+    "Dependencies": [
+        {
+            "UniqueID": "spacechase0.GenericModConfigMenu",
+            "IsRequired": false
+        }
+    ]
+}

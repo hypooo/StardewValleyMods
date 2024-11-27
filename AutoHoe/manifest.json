@@ -1,0 +1,18 @@
+{
+    "Name": "*Auto-Hoe*",
+    "Author": "YunHikari",
+    "Version": "1.0.5",
+    "Description": "This mod helps you easily dig up artifacts, cave soil, and prepare soil for farming with the hoe.",
+    "UniqueID": "YunHikari.AutoHoe",
+    "EntryDll": "AutoHoe.dll",
+    "MinimumApiVersion": "4.0.2",
+    "UpdateKeys": [
+        "Nexus:28974"
+    ],
+    "Dependencies": [
+        {
+            "UniqueID": "spacechase0.GenericModConfigMenu",
+            "IsRequired": false
+        }
+    ]
+}
