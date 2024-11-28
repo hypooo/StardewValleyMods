@@ -1,0 +1,5 @@
+{
+  "isConsumable": true,
+  "targetScanRadius": 1,
+  "targetExecutionRadius": 1
+}

@@ -1,6 +1,6 @@
 {
   "ToggleShaftsKey": "OemTilde",
-  "ForceShafts": true,
+  "ForceShafts": false,
   "ToggleHighlightTypeKey": "LeftShift + OemTilde",
   "HighlightTypes": [
     "Rectangle"

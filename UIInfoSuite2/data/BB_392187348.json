@@ -18,7 +18,7 @@
   "ShowBombRange": false,
   "ShowItemsRequiredForBundles": true,
   "ShowHarvestPricesInShop": true,
-  "DisplayCalendarAndBillboard": false,
+  "DisplayCalendarAndBillboard": true,
   "ShowWhenNewRecipesAreAvailable": true,
   "ShowToolUpgradeStatus": true,
   "HideMerchantWhenVisited": false,

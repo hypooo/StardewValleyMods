@@ -1,0 +1,11 @@
+{
+  "Name": "Peehell's Big Silo",
+  "Author": "Peehell",
+  "Version": "1.2.5",
+  "Description": "add more hay to the silo.",
+  "UniqueID": "Peehell.Peehells_Big_Silo",
+  "UpdateKeys": ["Nexus:20712"],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
