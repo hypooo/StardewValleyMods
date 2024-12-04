@@ -34,6 +34,8 @@
     "GMCM.EffectOnGreenRainBush.Desc": "Include Green Rain Bush as harvest targets.",
     "GMCM.IgnoreFlowers": "Ignore Flowers",
     "GMCM.IgnoreFlowers.Desc": "Ignore harvesting flowers to prevent interfering with beehouse production.",
+    "GMCM.ProtectGrowingTrees": "Protect Growing Trees",
+    "GMCM.ProtectGrowingTrees.Desc": "When enabled, the scythe will no longer destroy growing trees.",
     "_3": "--------------------------------------------- -----------------",
     "GMCM.SectionTitle.ControllerCompatibility": "Controller Compatibility",
     "GMCM.MarkHotkey": "Mark Hotkey (Recommended for Controller)",

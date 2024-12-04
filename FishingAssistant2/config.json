@@ -31,7 +31,7 @@
   "InstantFishBite": false,
   "PreferFishAmount": 1,
   "PreferFishQuality": "Any",
-  "AlwaysPerfect": false,
+  "AlwaysPerfect": true,
   "AlwaysMaxFishSize": false,
   "FishDifficultyMultiplier": 1.0,
   "FishDifficultyAdditive": 0,

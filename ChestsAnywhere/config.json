@@ -1,7 +1,7 @@
 {
   "EnableSprinklerAttachments": false,
   "ShowHoverTooltips": true,
-  "EnableShippingBin": false,
+  "EnableShippingBin": true,
   "AddOrganizePlayerInventoryButton": true,
   "Range": "Unlimited",
   "DisabledInLocations": [],

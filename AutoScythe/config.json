@@ -14,6 +14,7 @@
   "effectOnFruitTree": true,
   "effectOnLewis": false,
   "ignoreFlowers": true,
+  "protectGrowingTrees": true,
   "toggleHotkey": "None",
   "markNearestTileKey": "None",
   "MarkNearestTileRange": 3

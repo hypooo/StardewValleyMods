@@ -1,7 +1,7 @@
 {
     "Name": "*Auto-Pickaxe*",
     "Author": "YunHikari",
-    "Version": "1.1.4",
+    "Version": "1.1.7",
     "Description": "This mod can help you avoid the hassle of clicking the mouse; you can mine just by moving.If you care about game balance, the default configuration won't raise any concerns about cheating.If you pursue efficiency, you can modify the config to significantly increase mining efficiency.",
     "UniqueID": "YunHikari.AutoPickaxe",
     "EntryDll": "AutoPickaxe.dll",

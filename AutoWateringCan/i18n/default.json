@@ -16,6 +16,7 @@
     "GMCM.DetectCrops.Desc": "Only targets hoe dirt with crops.",
     "GMCM.DetectPetBowl": "Detect Pet Bowl",
     "GMCM.DetectPetBowl.Desc": "Your pet needs water! Please don't forget!",
+    "GMCM.DetectSlimeHutchBowl": "Detect Slime Hutch Bowl",
     "GMCM.Auto-WaterFilling": "Auto Water Filling",
     "GMCM.Auto-WaterFilling.Desc": "When the watering can's water is below the maximum value, it will automatically fill when near a water source.",
     "GMCM.RetainStamina": "Retain Stamina(%)",

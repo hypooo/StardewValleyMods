@@ -1,7 +1,7 @@
 {
     "Name": "*Auto-WateringCan*",
     "Author": "YunHikari",
-    "Version": "1.0.8",
+    "Version": "1.0.9",
     "Description": "This mod helps farmers automatically water crops, simplifying the tedious watering process. By equipping a Watering Can and approaching crops or HoeDirt, it operates seamlessly. It features enhanced range detection, reducing the chances of missing any crops that need watering.",
     "UniqueID": "YunHikari.AutoWateringCan",
     "EntryDll": "AutoWateringCan.dll",

@@ -3,6 +3,7 @@
   "autoSwitch": true,
   "detectCrops": true,
   "detectPetBowl": true,
+  "detectSlimeHutchBowl": true,
   "autoWaterFilling": true,
   "useCustomEfficiency": false,
   "efficiency": 1,

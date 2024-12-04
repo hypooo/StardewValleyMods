@@ -22,8 +22,8 @@
     "GMCM.EffectOnStoneOreNodes.Desc": "把所有石头矿物节点列入破坏目标。",
     "GMCM.EffectOnSpecialOreNodes": "处理特殊矿物",
     "GMCM.EffectOnSpecialOreNodes.Desc": "把所有特殊矿物节点列入破坏目标，例如宝石、工具升级材料等。",
-    "GMCM.EffectOnOtherModsResourceClumps": "处理其它Mod堆块",
-    "GMCM.EffectOnOtherModsResourceClumps.Desc": "把其它Mod堆块列入破坏目标，第一下必须由玩家手动采集，Mod会借此学习该堆块是否能列入自动采集。",
+    "GMCM.EffectOnOtherModsResourceClumps": "处理其它Mod堆块(Beta)",
+    "GMCM.EffectOnOtherModsResourceClumps.Desc": "把其它Mod堆块列入破坏目标。\n第一下必须由玩家手动采集，Mod会借此学习该堆块是否能列入自动采集。\n此功能目前为Beta版本，\n由于来自不同Mod的资料结构不同，无法保证能在所有环境运作正常。 \n如果遇到这个Mod运作异常，请关闭这个功能。",
     "GMCM.StopMiningWhenLadderDownCreate": "下层出现后停止挖掘",
     "GMCM.StopMiningWhenLadderDownCreate.Desc": "在矿井时，有向下楼层或洞穴时，停止挖掘石头矿物。",
     "GMCM.LadderDownSoundEffect": "下层出现音效",
@@ -44,6 +44,10 @@
     "GMCM.StaminaNotification": "体力通知",
     "GMCM.StaminaNotification.Desc": "当体力不足时以讯息通知。",
     "Notification.LowStamina": "体力不足，自动十字镐暂停运作。",
+    "GMCM.DetectCustomObjects": "侦测自订物件",
+    "GMCM.DetectCustomObjects.Desc": "你可以额外安装Lookup Anything模组查询Item ID。 \nAuto-Pickaxe会自动将这些物件列为目标。 \n如果要加入多个物件请用,符号分隔。",
+    "GMCM.DetectCustomObjects.Hotkey": "侦测自订物件-热键启用",
+    "GMCM.DetectCustomObjects.Hotkey.Desc": "当启用时，你也可以用Ctrl+Alt+右键点选来新增/移除侦测自订物件。",
     "_2": "--------------------------------------------- -----------------",
     "GMCM.SectionTitle.Modification": "十字镐改造",
     "GMCM.CustomRange": "自订范围",
@@ -58,5 +62,9 @@
     "GMCM.SectionTitle.ControllerCompatibility": "手柄支援性",
     "GMCM.MarkHotkey": "标记热键(手柄推荐)",
     "GMCM.MarkHotkey.Desc": "当按下时，标记/反标记最邻近可标记区块。",
-    "GMCM.MarkHotkey.Range": "标记热键作用范围"
+    "GMCM.MarkHotkey.Range": "标记热键作用范围",
+    "_4": "--------------------------------------------- -----------------",
+    "DetectCustomObjects.Add": "侦测自订物件-新增物件:{i}",
+    "DetectCustomObjects.Remove": "侦测自订物件-移除物件:{i}",
+    "DetectCustomObjects.Cancel": "侦测自订物件-该座标没有物件"
 }

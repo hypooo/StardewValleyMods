@@ -16,6 +16,7 @@
     "GMCM.DetectCrops.Desc": "只针对有作物的土壤。",
     "GMCM.DetectPetBowl": "侦测宠物碗",
     "GMCM.DetectPetBowl.Desc": "你的宠物需要喝水！请不要忘记！",
+    "GMCM.DetectSlimeHutchBowl": "侦测史莱姆小屋水槽",
     "GMCM.Auto-WaterFilling": "自动装水",
     "GMCM.Auto-WaterFilling.Desc": "当喷壶内的水未满最大值时，靠近水源自动填充。",
     "GMCM.RetainStamina": "保留体力(%)",

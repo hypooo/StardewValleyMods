@@ -22,8 +22,8 @@
     "GMCM.EffectOnStoneOreNodes.Desc": "Include all stone ore nodes as targets for destruction.",
     "GMCM.EffectOnSpecialOreNodes": "Effect on Special Ore Nodes",
     "GMCM.EffectOnSpecialOreNodes.Desc": "Include all special ore nodes as targets for destruction, such as gems and tool upgrade materials.",
-    "GMCM.EffectOnOtherModsResourceClumps": "Effect On ResourceClumps from OtherMods",
-    "GMCM.EffectOnOtherModsResourceClumps.Desc": "Include resource clumps from other mods as destruction targets. The first attempt must be manually collected by the player for the mod to learn whether the clump can be included in auto-collection.",
+    "GMCM.EffectOnOtherModsResourceClumps": "Effect On ResourceClumps from OtherMods(Beta)",
+    "GMCM.EffectOnOtherModsResourceClumps.Desc": "Include resource clumps from other mods as destruction targets. \nThe first attempt must be manually collected by the player for the mod to learn whether the clump can be included in auto-collection.\nThis feature is currently in Beta.\nDue to differences in data structures from various mods, proper functionality in all environments cannot be guaranteed.\nIf you encounter issues with this mod, please disable this feature.",
     "GMCM.StopMiningWhenLadderDownCreate": "Stop Mining When Ladder Appears",
     "GMCM.StopMiningWhenLadderDownCreate.Desc": "In the mine, stop mining stone ores when a ladder or shaft to the next level appears.",
     "GMCM.LadderDownSoundEffect": "Ladder Appears Sound Effect",
@@ -43,6 +43,10 @@
     "GMCM.StaminaNotification": "Stamina Notification",
     "GMCM.StaminaNotification.Desc": "Display a notification when Stamina is low.",
     "Notification.LowStamina": "Auto-Pickaxe has temporarily stopped due to low Stamina.",
+    "GMCM.DetectCustomObjects": "Detect Custom Objects",
+    "GMCM.DetectCustomObjects.Desc": "You can install the Lookup Anything mod to query Item ID. \nAuto-Pickaxe will automatically target these objects. \nIf you want to add multiple objects, please separate them with a comma.",
+    "GMCM.DetectCustomObjects.Hotkey": "Detect custom objects - Hotkey",
+    "GMCM.DetectCustomObjects.Hotkey.Desc": "When enabled, you can also use Ctrl + Alt + right-click to add/remove detected custom objects.",
     "_2": "--------------------------------------------- -----------------",
     "GMCM.SectionTitle.Modification": "Pickaxe Modification",
     "GMCM.CustomRange": "Custom Range",
@@ -57,5 +61,9 @@
     "GMCM.SectionTitle.ControllerCompatibility": "Controller Compatibility",
     "GMCM.MarkHotkey": "Mark Hotke",
     "GMCM.MarkHotkey.Desc": "Press to mark/unmark the nearest eligible tile.",
-    "GMCM.MarkHotkey.Range": "Mark Hotkey Range"
+    "GMCM.MarkHotkey.Range": "Mark Hotkey Range",
+    "_4": "--------------------------------------------- -----------------",
+    "DetectCustomObjects.Add": "Detect custom objects - Add object: {i}",
+    "DetectCustomObjects.Remove": "Detect custom objects - Remove object: {i}",
+    "DetectCustomObjects.Cancel": "Detect custom objects - No object at this coordinate"
 }

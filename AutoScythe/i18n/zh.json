@@ -34,6 +34,8 @@
     "GMCM.EffectOnGreenRainBush.Desc": "把苔雨灌木也列入割除目标。",
     "GMCM.IgnoreFlowers": "忽略花朵",
     "GMCM.IgnoreFlowers.Desc": "忽略收获花朵，防止蜂房运作被干涉。",
+    "GMCM.ProtectGrowingTrees": "保护成长中的树",
+    "GMCM.ProtectGrowingTrees.Desc": "启用后，镰刀就无法摧毁成长中的树了。",
     "_3": "--------------------------------------------- -----------------",
     "GMCM.SectionTitle.ControllerCompatibility": "手柄支援性",
     "GMCM.MarkHotkey": "标记热键(手柄推荐)",
