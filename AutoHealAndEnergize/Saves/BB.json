@@ -1,58 +1,22 @@
 {
   "Items": [
     {
-      "itemID": "349",
+      "itemID": "395",
       "quality": 0,
-      "stack": 6,
-      "edibility": 200
-    },
-    {
-      "itemID": "773",
-      "quality": 0,
-      "stack": 7,
-      "edibility": 80
-    },
-    {
-      "itemID": "203",
-      "quality": 0,
-      "stack": 2,
-      "edibility": 40
-    },
-    {
-      "itemID": "253",
-      "quality": 0,
-      "stack": 24,
-      "edibility": 3
+      "stack": 150,
+      "edibility": 1
     },
     {
       "itemID": "226",
       "quality": 0,
-      "stack": 6,
+      "stack": 47,
       "edibility": 46
     },
     {
-      "itemID": "395",
+      "itemID": "253",
       "quality": 0,
-      "stack": 9,
-      "edibility": 1
-    },
-    {
-      "itemID": "732",
-      "quality": 0,
-      "stack": 1,
-      "edibility": 90
-    },
-    {
-      "itemID": "195",
-      "quality": 0,
-      "stack": 1,
-      "edibility": 40
-    },
-    {
-      "itemID": "211",
-      "quality": 0,
-      "stack": 1,
-      "edibility": 36
+      "stack": 31,
+      "edibility": 3
     }
   ]
 }

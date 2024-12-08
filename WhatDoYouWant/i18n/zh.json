@@ -1,0 +1,182 @@
+{
+    // General
+
+    "Menu_Question": "显示仍需的物品...",
+    "Menu_GrandpasEvaluation": "爷爷的评价",
+    "Menu_Walnuts": "金核桃",
+    "Menu_Stardrops": "星之果实",
+    // other menu items pull titles from base game data
+    "Menu_Cancel": "取消",
+
+    "Response_NotYetImplemented": "尚未实现",
+    "Response_Section": "第 {{section}} 部分，共 {{numberSections}} 部分",
+
+    "Options_OpenMenuKey": "打开菜单键",
+
+    "AllSeasons": "所有季节",
+
+    "ItemDescription_(O)176": "蛋（白）",
+    "ItemDescription_(O)180": "蛋（棕）",
+    "ItemDescription_(O)174": "大鸡蛋（白）",
+    "ItemDescription_(O)182": "大鸡蛋（棕色）",
+    "ItemDescription_(O)SmokedFish": "熏鱼（任意种类）",
+    "ItemDescription_(O)DriedFruit": "果干（任意种类）",
+    "ItemDescription_(O)DriedMushrooms": "蘑菇干（任意种类）",
+    "ItemDescription_(O)126": "诡异玩偶（绿）",
+    "ItemDescription_(O)127": "诡异玩偶（黄）",
+
+    "RecipeCondition_Pierres_Shop": "皮埃尔的杂货店",
+    "RecipeCondition_Carpenters_Shop": "木匠的商店",
+    "RecipeCondition_Krobus": "克罗布斯",
+    "RecipeCondition_Island_Trader": "岛屿商人",
+    "RecipeCondition_Qis_Walnut_Room": "齐先生的核桃房",
+    "RecipeCondition_Combat_Mastery": "战斗精通",
+    "RecipeCondition_Foraging_Mastery": "觅食精通",
+    "RecipeCondition_Mining_Mastery": "采矿精通",
+
+    "RecipeCondition_Cookies": "艾芙琳 4心事件",
+    "RecipeCondition_Triple_Shot_Espresso": "星之果实餐吧",
+    "RecipeCondition_Ginger_Ale": "火山商店",
+    "RecipeCondition_Tropical_Curry": "海滩度假村",
+
+    "RecipeCondition_Ancient_Seeds": "古代种子",
+    "RecipeCondition_Big_Stone_Chest": "矮人",
+    "RecipeCondition_Bone_Mill": "历史的碎片",
+    "RecipeCondition_Cask": "最终农舍升级",
+    "RecipeCondition_Challenge_Bait": "钓鱼精通",
+    "RecipeCondition_Deluxe_Scarecrow": "所有稻草人",
+    "RecipeCondition_Drum_Block": "罗宾 6心事件",
+    "RecipeCondition_Fairy_Dust": "海盗的妻子",
+    "RecipeCondition_Farm_Computer": "生态平衡或水生物泛滥",
+    "RecipeCondition_Fiber_Seeds": "社区清理",
+    "RecipeCondition_Fish_Smoker": "鱼店",
+    "RecipeCondition_Flute_Block": "罗宾 6心事件",
+    "RecipeCondition_Furnace": "克林特 铜矿石事件",
+    "RecipeCondition_Garden_Pot": "艾芙琳 温室事件",
+    "RecipeCondition_Geode_Crusher": "洞穴巡查",
+    "RecipeCondition_Jack-O-Lantern": "万灵节",
+    "RecipeCondition_Mini-Jukebox": "格斯 5心事件",
+    "RecipeCondition_Mini-Obelisk": "灵外质",
+    "RecipeCondition_Monster_Musk": "五彩胶冻",
+    "RecipeCondition_Ostrich_Incubator": "岛屿办事处",
+    "RecipeCondition_Quality_Bobber": "需要多汁的虫子！",
+    "RecipeCondition_Solar_Panel": "岛屿食材",
+    "RecipeCondition_Statue_Of_Blessings": "农业精通",
+    "RecipeCondition_Stone_Chest": "罗宾的资源活动",
+    "RecipeCondition_Tea_Sapling": "卡洛琳 2心事件",
+    "RecipeCondition_Tub_o'_Flowers": "花舞节",
+    "RecipeCondition_Warp_Totem:_Desert": "沙漠商人",
+    "RecipeCondition_Warp_Totem:_Island": "火山商店",
+    "RecipeCondition_Wild_Bait": "莱纳斯 4心事件",
+
+    // Community Center
+
+    "CommunityCenter_Silver": "银",
+    "CommunityCenter_Gold": "金",
+    "CommunityCenter_Iridium": "铱",
+    "CommunityCenter_MoreOptionsThanSlots": "中的", // 例如：异国情调采集：“5个中的椰子，仙人掌果，..."
+    "CommunityCenter_Complete": "{{title}}已完成！",
+    "CommunityCenter_Unavailable": "{{title}}？哦，你是说Joja仓库吗？",
+
+    // Grandpa's Evaluation
+
+    "GrandpasEvaluation_EarnFiftyThousand": "赚取50,000金币",
+    "GrandpasEvaluation_EarnOneHundredThousand": "赚取100,000金币",
+    "GrandpasEvaluation_EarnTwoHundredThousand": "赚取200,000金币",
+    "GrandpasEvaluation_EarnThreeHundredThousand": "赚取300,000金币",
+    "GrandpasEvaluation_EarnFiveHundredThousand": "赚取500,000金币",
+    "GrandpasEvaluation_EarnOneMillion": "赚取1,000,000金币",
+    "GrandpasEvaluation_PlayerLevel15": "所有技能等级加起来≥30级。",
+    "GrandpasEvaluation_PlayerLevel25": "所有技能等级加起来为50级。（每个技能达到10级满级）。",
+    "GrandpasEvaluation_AchievementMuseum": "完成博物馆的全部收集",
+    "GrandpasEvaluation_AchievementFishing": "钓到每一种鱼",
+    "GrandpasEvaluation_AchievementShipping": "寄出每一种物品。",
+    "GrandpasEvaluation_FriendshipMarriedTwoHouseUpgrades": "已婚，至少有两次房子升级（厨房和育婴室）。",
+    "GrandpasEvaluation_FriendshipFiveFriends": "至少与五位村民有8颗心的友谊值。",
+    "GrandpasEvaluation_FriendshipTenFriends": "至少与十位村民有8颗心的友谊值。",
+    "GrandpasEvaluation_FriendshipPet": "和你的宠物大约有5颗心的友谊值。",
+    "GrandpasEvaluation_CommunityCenterCompleted": "完成所有社区中心的收集包",
+    "GrandpasEvaluation_CommunityCenterAvailable": "社区中心的竣工仪式已经举行。",
+    "GrandpasEvaluation_SkullKey": "获得头骨钥匙",
+    "GrandpasEvaluation_RustyKey": "获得生锈的钥匙",
+    "GrandpasEvaluation_Complete": "你已经做得足够好了，可以轻松通过{{title}}！",
+    "GrandpasEvaluation_Incomplete": "你的{{title}}得分是{{totalScore}}（蜡烛：{{numberCandles}}）",
+    "GrandpasEvaluation_PointsNeededForCandles": "达到{{targetCandles}}根蜡烛所需的总分数：{{totalPointsNeeded}}",
+
+    // Golden Walnuts
+
+    "Walnuts_Complete": "{{title}} 已完成！",
+
+    // Full Shipment
+
+    "Shipping_Complete": "{{title}} 已完成！",
+
+    "Options_ShippingSortOrder": "排序顺序 - 完整发货",
+    "Options_ShippingSortOrder_Category": "分类",
+    "Options_ShippingSortOrder_ItemName": "物品名称",
+    "Options_ShippingSortOrder_CollectionsTab": "基于收藏标签",
+
+    // Gourmet Chef
+
+    "Cooking_NotYetLearned": "尚未学会",
+    "Cooking_Complete": "{{title}} 已完成！",
+
+    "Options_CookingSortOrder": "排序顺序 - 美食大厨",
+    "Options_CookingSortOrder_KnownRecipesFirst": "已知食谱优先",
+    "Options_CookingSortOrder_RecipeName": "食谱名称",
+    "Options_CookingSortOrder_CollectionsTab": "基于收藏标签",
+    "Options_CookingSortOrder_Ingredients": "仅按食材排序",
+
+    // Craft Master
+
+    "Crafting_NotYetLearned": "尚未学会",
+    "Crafting_Complete": "{{title}} 已完成！",
+
+    "Options_CraftingSortOrder": "排序顺序 - 工艺大师",
+    "Options_CraftingSortOrder_KnownRecipesFirst": "已知配方优先",
+    "Options_CraftingSortOrder_RecipeName": "配方名称",
+    "Options_CraftingSortOrder_CraftingMenu": "基于制作菜单",
+    "Options_CraftingSortOrder_Materials": "仅按材料排序",
+
+    // Master Angler
+
+    "Fishing_Fish": "{{fish}}",
+    "Fishing_Complete": "{{title}} 已完成！",
+
+    "Options_FishingSortOrder": "排序顺序 - 钓鱼大师",
+    "Options_FishingSortOrder_SeasonsSpringFirst": "季节，春天优先",
+    "Options_FishingSortOrder_SeasonsCurrentFirst": "季节，当前优先",
+    "Options_FishingSortOrder_FishName": "鱼类名称",
+    "Options_FishingSortOrder_CollectionsTab": "基于收藏标签",
+
+    // A Complete Collection
+
+    "Museum_Complete": "{{title}} 已完成！",
+
+    "Options_MuseumSortOrder": "排序顺序 - 完整收藏",
+    "Options_MuseumSortOrder_Type": "类型/项目名称",
+    "Options_MuseumSortOrder_ItemName": "项目名称",
+    "Options_MuseumSortOrder_CollectionsTabs": "基于收藏标签页",
+
+    // Stardrops
+
+    "Stardrop_CF_Fair": "在星露谷集市以2000星星币购买",
+    "Stardrop_CF_Mines": "在矿洞100层的宝箱中找到",
+    "Stardrop_CF_Spouse": "在达到12.5颗心时由NPC配偶赠送",
+    "Stardrop_CF_Sewer": "在下水道以20000金币从克罗布斯处购买",
+    "Stardrop_CF_Statue": "从秘密森林的老师傅卡诺利处收到",
+    "Stardrop_CF_Fish": "在达成钓鱼大师成就后由威利邮寄",
+    "Stardrop_museumComplete": "完成博物馆收藏的奖励",
+    "Stardrop_Complete": "{{title}} 已集齐！",
+
+    // Polyculture
+
+    "Polyculture_NumberNeeded": "再发货 {{number}} 个",
+    "Polyculture_Complete": "{{title}} 已完成！",
+
+    "Options_PolycultureSortOrder": "排序顺序 - 多样化种植",
+    "Options_PolycultureSortOrder_SeasonsSpringFirst": "季节，春天优先",
+    "Options_PolycultureSortOrder_SeasonsCurrentFirst": "季节，当前优先",
+    "Options_PolycultureSortOrder_CropName": "作物名称",
+    "Options_PolycultureSortOrder_NumberNeeded": "所需数量"
+}

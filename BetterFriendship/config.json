@@ -2,7 +2,7 @@
   "DisplayTalkPrompts": true,
   "DisplayGenericGiftPrompts": true,
   "GiftCycleDelay": 2000,
-  "IgnoreMaxedFriendships": false,
+  "IgnoreMaxedFriendships": true,
   "SpousePromptsOverride": false,
   "DisplayBubbles": true,
   "BubbleDisplayRange": 12,

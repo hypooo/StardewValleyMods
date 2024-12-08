@@ -20,14 +20,14 @@
       "PlayerName": "HYPO",
       "DisableRecoveryConfigInGameChanges": false,
       "EnableRecoveryService": false,
-      "RecoverAllItems": false,
+      "RecoverAllItems": true,
       "RecoverForFree": false,
       "DisableClearLostItemsOnRandomRecovery": false
     }
   },
   "DisableRecoveryConfigInGameChanges": false,
   "EnableRecoveryService": false,
-  "RecoverAllItems": false,
+  "RecoverAllItems": true,
   "RecoverForFree": false,
   "DisableClearLostItemsOnRandomRecovery": false
 }
