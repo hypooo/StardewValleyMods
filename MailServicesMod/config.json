@@ -19,9 +19,9 @@
     "-4270260758079680357": {
       "PlayerName": "HYPO",
       "DisableRecoveryConfigInGameChanges": false,
-      "EnableRecoveryService": false,
+      "EnableRecoveryService": true,
       "RecoverAllItems": true,
-      "RecoverForFree": false,
+      "RecoverForFree": true,
       "DisableClearLostItemsOnRandomRecovery": false
     }
   },

@@ -1,22 +1,22 @@
 {
   "Items": [
     {
-      "itemID": "395",
-      "quality": 0,
-      "stack": 150,
-      "edibility": 1
-    },
-    {
       "itemID": "226",
       "quality": 0,
-      "stack": 47,
+      "stack": 136,
       "edibility": 46
     },
     {
       "itemID": "253",
       "quality": 0,
-      "stack": 31,
+      "stack": 145,
       "edibility": 3
+    },
+    {
+      "itemID": "395",
+      "quality": 0,
+      "stack": 24,
+      "edibility": 1
     }
   ]
 }
