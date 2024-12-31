@@ -1,11 +1,12 @@
 ﻿{
   "Name": "Fishing Info Overlays",
   "Author": "barteke22",
-  "Version": "1.2.2",
+  "Version": "1.2.3-unofficial.1-Sparky56p",
   "Description": "Adds a preview showing fish in current location when holding a fishing rod, which fish you're currently catching, and more!",
   "UniqueID": "barteke22.FishingInfoOverlays",
   "EntryDll": "FishingInfoOverlays.dll",
-  "MinimumApiVersion": "4.0.0",
+    "MinimumApiVersion": "4.1.10",
+    "MinimumGameVersion": "1.6.14",
   "Dependencies": [{
       "UniqueID": "spacechase0.GenericModConfigMenu",
       "IsRequired": false

@@ -1,7 +1,7 @@
 {
   "BarSonarMode": 2,
   "BarIconMode": [
-    2,
+    0,
     0,
     0,
     0
@@ -48,7 +48,7 @@
     0,
     0,
     0,
-    209
+    128
   ],
   "BarTextColorRGBA": [
     255,
@@ -75,7 +75,7 @@
     0
   ],
   "Comment_BarSortMode": "Above BarSortMode values: 0= Sort Icons by Name (text mode only), 1= Sort icons by catch chance (Extra Check Frequency based), 2= Off",
-  "BarExtraCheckFrequency": 6,
+  "BarExtraCheckFrequency": 0,
   "BarScanRadius": [
     20,
     20,

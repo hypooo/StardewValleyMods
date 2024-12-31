@@ -2,7 +2,7 @@
   "Name": "Visible Fish",
   "Author": "shekurika",
   "Version": "0.4.2",
-  "Description": "Shows fish in the water",
+  "Description": "这个 Mod 显示了目前在水中可以捕获的鱼。适用于修改后的地点 + 鱼！",
   "UniqueID": "shekurika.WaterFish",
   "EntryDll": "showFishInWater.dll",
   "MinimumApiVersion": "4.0.0",
